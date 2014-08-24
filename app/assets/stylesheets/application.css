@@ -14,8 +14,7 @@
  *= require_self
  */
 
-require "vendor/stylesheets/bootstrap.css"
-require "vendor/stylesheets/da-slider.css"
-require "vendor/stylesheets/prettyPhoto.css"
-require "vendor/stylesheets/style.css"
-require "vendor/stylesheets/style.less"
+*= require bootstrap.css
+*= require da-slider.css
+*= require prettyPhoto.css
+*= require style.css

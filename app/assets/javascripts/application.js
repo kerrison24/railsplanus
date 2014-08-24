@@ -13,16 +13,18 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+
+//= require bootstrap.js
+//= require cbpScroller.js
+//= require classie.js
+//= require html5shiv.js
+//= require jquery.cslider.js
+//= require jquery.easing.1.3.js
+//= require jquery.mixitup.js
+//= require jquery.prettyPhoto.js
+//= require modernizr.custom.28468.js
+//= require respond.min.js
+//= require scripts.js
+
 //= require_tree .
 
-require "vendor/javascripts/bootstrap.js"
-require "vendor/javascripts/cbpScroller.js"
-require "vendor/javascripts/classie.js"
-require "vendor/javascripts/html5shiv.js"
-require "vendor/javascripts/jquery.cslider.js"
-require "vendor/javascripts/jquery.easing.1.3.js"
-require "vendor/javascripts/jquery.mixitup.js"
-require "vendor/javascripts/jquery.prettyPhoto.js"
-require "vendor/javascripts/modernizr.custom.28468.js"
-require "vendor/javascripts/respond.min.js"
-require "vendor/javascripts/script.js"
