@@ -12,9 +12,10 @@
  *
  *= require_tree .
  *= require_self
- */
-
-*= require bootstrap.css
+ *= require bootstrap.css
 *= require da-slider.css
 *= require prettyPhoto.css
 *= require style.css
+ */
+
+
